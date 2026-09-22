@@ -1,0 +1,6 @@
+{
+  "token": "https://raw.githubusercontent.com/Zss03040464/tvbox-config/main/tvfan/alitoken.txt",
+  "ali": "https://raw.githubusercontent.com/Zss03040464/tvbox-config/main/tvfan/alitoken.txt",
+  "quark": "https://raw.githubusercontent.com/Zss03040464/tvbox-config/main/tvfan/kuatoken.txt",
+  "uc": "https://raw.githubusercontent.com/Zss03040464/tvbox-config/main/tvfan/uctoken.txt"
+}
